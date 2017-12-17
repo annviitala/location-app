@@ -21,12 +21,12 @@ An application that adds and deletes coordinates and map it out on google map
    ng new my-app
    
    Note: "my-app" is the project name.  You can name whatever you want.
-5. The go inside the file folder, in command prompt enter this command:
+5. Then go inside the file folder, by entering the command in the command prompt:
 
    cd my-app
  
 6. Delete the src file of your newly created project.
-7. Download the src file of this app and save it to your project.
+7. Download the src file of this app and save it to your project to replace the deleted src file.
 8. Open app.module.ts file and change the apiKey with your own google api key which you can get from google.      
    "https://developers.google.com/maps/documentation/javascript/get-api-key"
 9. Download the location-api.jar file and save it to your project.
