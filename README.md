@@ -46,5 +46,8 @@ LICENSE This program is a free software. Redistribution and/or modification is p
 
 This program is mainly for educational purposes and does not warrant its fitness for commercial game production capabilities.
 
+# App screenshot
+![Alt text](https://github.com/annviitala/location-app/blob/master/app_screenhot.png?raw=true "Optional Title")
+
 
 
