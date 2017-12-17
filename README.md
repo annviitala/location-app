@@ -6,7 +6,7 @@ An application that adds and deletes coordinates and map it out on google map
 2. The user enters values on the input field for latitude and longitude.
 3. When add button is clicked, the values are showed on the table and map out to the google map with a marker.
 4. Each row corresponding to the latitude and longitude values has a delete button also.
-5. When delete button is clicked for a certain row, the entire row is remove from the table and the marker is also remove from the map.
+5. When delete button is clicked for a certain row, the entire row is remove from the table and the marker is also removed from the map.
 
 
 # Direction
