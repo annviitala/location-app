@@ -39,7 +39,7 @@ An application that adds and deletes coordinates and map it out on google map
     java -jar location-api.jar
     
     Note: Location api can be accessed at "http://localhost:8080/api/locations/"
-12. Project can be accessed at "http://loca1host:4200/LocationApp".
+12. Project can be accessed at "http://localhost:4200/LocationApp".
 
 # License
 LICENSE This program is a free software. Redistribution and/or modification is permitted under GNU General Public License v3.0 or any subsequent version.
