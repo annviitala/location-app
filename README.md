@@ -3,7 +3,11 @@ An application that adds and deletes coordinates and map it out on google map
 
 # Description
 1. This app uses angular2+ front-end technology.
-2. The user enters values on the input field for latitude and longitude.
+2. Id, latitude and longitude data in json format are fetched from the server(backend) through angular services(provider) and 
+   HttpClient.
+3. Angular component(module) then subscribes from the angular services in order to retrieve and display the data to the browser in table 
+   form.
+2. In the browser, the user enters values on the input field for latitude and longitude.
 3. When add button is clicked, the values are showed on the table and map out to the google map with a marker.
 4. Each row corresponding to the latitude and longitude values has a delete button also.
 5. When delete button is clicked for a certain row, the entire row is remove from the table and the marker is also removed from the map.
