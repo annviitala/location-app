@@ -48,7 +48,7 @@ An application that adds and deletes coordinates and map it out on google map
 # License
 LICENSE This program is a free software. Redistribution and/or modification is permitted under GNU General Public License v3.0 or any subsequent version.
 
-This program is mainly for educational purposes and does not warrant its fitness for commercial game production capabilities.
+This program is mainly for educational purposes and does not warrant its fitness for commercial production capabilities.
 
 # App screenshot
 ![Alt text](https://github.com/annviitala/location-app/blob/master/app_screenhot.png?raw=true "Optional Title")
